@@ -338,6 +338,11 @@
     text-align: center;
     margin: 0;
   }
+
+  .features i {
+    font-size: 3.75em;
+    margin-bottom: 40px;
+  }
   
   /* Reviews */
   
@@ -670,7 +675,7 @@
     }
   
     .mission-content p {
-      width: 45%;
+      width: 55%;
     }
   
     .contact-section .content-wrapper h2 {
@@ -685,6 +690,10 @@
   
     .contact-content h4 {
       font-size: 1.5em;
+    }
+
+    .map figure {
+      padding-bottom: 45.5%;
     }
   
     /* ==========================================================================
@@ -795,6 +804,10 @@
   
     .contact-content h4 {
       font-size: 1.875em;
+    }
+
+    .map figure {
+      padding-bottom: 37.5%;
     }
   
     /* ==========================================================================
